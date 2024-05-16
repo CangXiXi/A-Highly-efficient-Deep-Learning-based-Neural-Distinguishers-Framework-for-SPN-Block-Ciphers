@@ -1,2 +1,2 @@
-# Improved-deep-learning-based-neural-distinguishers-framework-for-SPN-block-ciphers
+# A Highly-efficient Deep Learning-based Neural Distinguishers Framework for SPN Block Ciphers
 The code is related to 'A Highly-efficient Deep Learning-based Neural Distinguishers Framework for SPN Block Ciphers'.
